@@ -1,0 +1,20 @@
+# Environnement virtuel Python
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers de test temporaires
+*.xspf
+test_music/
+test_playlist.xspf
+ma_playlist.xspf
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
